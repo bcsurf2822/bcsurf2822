@@ -8,7 +8,10 @@
 
 ## Reach me at
 
-[<img src="https://cdn-icons-png.flaticon.com/512/888/888868.png" alt="Apple" width="30" height="30">](ben.corbett.44@icloud.com)
+## Contact me
+
+<p>ben.corbett.44@icloud.com</p>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="30" height="30">](mailto:ben.corbett.44@icloud.com)
 
 [![Bens GitHub stats](https://github-readme-stats.vercel.app/api?username=bcsurf2822)](https://github.com/bcsurf2822/github-readme-stats)
 
