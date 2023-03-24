@@ -19,4 +19,4 @@
 <h2>I enjoy</h2>
 🏄‍♂️ 🌲 🌴🏠💻
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bcsurf2822&bg_color=ffffff&color=0400ef&line=0400ef&point=0400ef&area=true&hide_border=true)
+![](https://raw.githubusercontent.com/username=bcsurf2822/github-stats/master/generated/languages.svg#gh-light-mode-only)
