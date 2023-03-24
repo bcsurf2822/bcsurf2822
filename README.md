@@ -19,4 +19,4 @@
 <h2>I enjoy</h2>
 🏄‍♂️ 🌲 🌴🏠💻
 
-![](https://raw.githubusercontent.com/bcsurf2822/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![My Stats](https://raw.githubusercontent.com/bcsurf2822/github-stats/master/generated/languages.svg#gh-light-mode-only)
