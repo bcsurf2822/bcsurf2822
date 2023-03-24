@@ -10,8 +10,7 @@
 
 ## Contact me
 
-<p>ben.corbett.44@icloud.com</p>
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="30" height="30">](mailto:ben.corbett.44@icloud.com)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="30" height="30">](mailto:ben.corbett.44@icloud.com)<p>ben.corbett.44@icloud.com</p>
 
 [![Bens GitHub stats](https://github-readme-stats.vercel.app/api?username=bcsurf2822)](https://github.com/bcsurf2822/github-readme-stats)
 
