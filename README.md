@@ -1,14 +1,14 @@
 <div align="center">
   
-# Ben Corbett
-
 # Welcome To My GitHub Profile
+  
+# Ben Corbett
 
 ## Follow me on
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/benjamin-corbett-84822424a) [<img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="30" height="30">](https://www.facebook.com/profile.php?id=100014489438074) [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/bcsurf.28)
 
-## Reach me at
+## Email
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="30" height="30"><p>ben.corbett.44@icloud.com</p>
 
