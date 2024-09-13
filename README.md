@@ -2,7 +2,7 @@
 
 # Benjamin Corbett
 
-### Passionate Full-Stack Developer | React & NodeJS Enthusiast 
+### Passionate Full-Stack Developer 
 
 ---
 
