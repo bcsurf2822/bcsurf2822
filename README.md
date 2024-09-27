@@ -2,7 +2,7 @@
 
 # Benjamin Corbett
 
-### Fisherman turned Full-Stack Developer 
+### Full-Stack Developer from the seas 
 
 ---
 
