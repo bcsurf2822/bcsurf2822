@@ -6,7 +6,7 @@
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/benjamin-corbett-84822424a) 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 
 ---
 
-### 💼 Tech Stack
+### Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"> 
@@ -22,14 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" width="40" height="40"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"> 
-
----
-
-### ⚡ GitHub Stats
-
-[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bcsurf2822&show_icons=true&theme=radical)](https://github.com/bcsurf2822/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcsurf2822&layout=compact&theme=radical)](https://github.com/bcsurf2822/github-readme-stats)
 
 </div>
 
