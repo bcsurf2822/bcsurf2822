@@ -6,7 +6,7 @@
 
 ---
 
-### How to Reach Me
+## How to Reach Me
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/benjamin-corbett-84822424a) 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"> 
