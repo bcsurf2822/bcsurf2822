@@ -2,7 +2,7 @@
 
 # Benjamin Corbett
 
-### Full-Stack Developer from the seas 
+### Full-Stack Developer 
 
 ---
 
