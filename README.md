@@ -8,7 +8,7 @@
 
 ## About
 
-I am a full-stack developer who builds dynamic, user-friendly web applications using JavaScript technologies such as React, Redux, and Bootstrap for front-end development and developing back-end systems using Express, Node, and MongoDB. I have worked on a small team using Git-Flow and Agile methodologies. I have also experience using Web Sockets, security through Authentication, and APIs
+I am a full-stack developer who builds dynamic, user-friendly web applications using JavaScript technologies such as React, Redux, and Bootstrap for front-end development and developing back-end systems using Express, Node, and MongoDB. I have worked on a small team using Git-Flow and Agile methodologies. I have also experience using Web Sockets, security through Authentication, and restAPIs
 
 ---
 
