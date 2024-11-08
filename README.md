@@ -6,10 +6,12 @@ I am a full-stack developer who specializes in building applications with React 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css&perline=5)](https://skillicons.dev)
 <br />
-- 🔭 Currently working on a: Full-Stack Poker Application  
-- 🌱 Currently Learning: AWS & TypeScript
-- ⚡ Fun fact: I enjoy surfing, poker, and yoga! 
-- 📫 Reach me at: crystaledgedev22@gmail.com
+- 🔭 **Currently working on a:** Full-Stack Poker Application  
+- 🌱 **Currently Learning:** AWS & TypeScript
+- ⚡ **Fun fact:** I enjoy surfing, poker, and yoga! 
+- 📫 **Reach me at:** crystaledgedev22@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benjamin-corbett-84822424a//)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bcsurf2822&theme=dark)](https://git.io/streak-stats)
 
