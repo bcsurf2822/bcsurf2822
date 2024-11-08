@@ -16,7 +16,7 @@ I am a full-stack developer who builds dynamic, user-friendly web applications u
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/benjamin-corbett-84822424a) 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">](mailto:ben.corbett.44@icloud.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">](mailto:crystaledgedev22@gmail.com)
 
 ---
 
