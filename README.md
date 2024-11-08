@@ -1,6 +1,6 @@
 ![Header](https://github.com/bcsurf2822/bcsurf2822/blob/main/assets/gh-banner-image.png)
 ### Hi there 👋, I'm Benjamin Corbett
-#### from New Jersey
+#### crystaledgedev22@gmail.com
 
 I am a full-stack developer who specializes in building applications with React using Next.js, Redux, Bootstrap, and Tailwindcss. On the server side I am experienced in using MongoDB, Express.js, and Node.js. In addition to these technologies, I have experience performing unit tests with Jest, integrating WebSockets for real-time communication, authentication, and fetching data through APIs. During my time at Parsity, I collaborated with two other developers to create a Trello clone, where we practiced Git collaboration and Agile methodologies using React, Redux, Node, TailwindCSS, and MongoDB. I'm currently expanding my skill set by learning TypeScript, Amazon Web Services (AWS), and SQL databases.
 
@@ -8,7 +8,6 @@ I am a full-stack developer who specializes in building applications with React 
 
 - 🔭 Currently working on a: Full-Stack Poker Application  
 - 🌱 Currently learning: Typescript & AWS 
-- 📫 [Email](crystaledgedev22@gmail.com)
 - ⚡ Fun fact: I enjoy surfing, poker, and yoga! 
 
 
