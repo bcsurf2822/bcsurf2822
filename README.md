@@ -11,7 +11,10 @@ I am a full-stack developer who specializes in building applications with React 
 - ⚡ **Fun fact:** I enjoy surfing, poker, and yoga! 
 - 📫 **Reach me at:** crystaledgedev22@gmail.com
 <br/>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benjamin-corbett-84822424a//)
+
 <br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bcsurf2822&theme=dark)](https://git.io/streak-stats)
 
