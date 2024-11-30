@@ -6,7 +6,7 @@ I am a full-stack developer who specializes in building applications with React 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css&perline=5)](https://skillicons.dev)
 <br />
-- 🔭 **Portfolio** [Here](https://github.com/bcsurf2822/bcsurf2822/blob/main/assets/gh-banner-image.png)
+- 🔭 **Portfolio** [Here](https://b-corbett-portfolio.vercel.app/)
 - 🌱 **Currently Learning:** AWS & TypeScript
 - ⚡ **Fun fact:** I enjoy surfing, poker, and yoga! 
 - 📫 **Reach me at:** crystaledgedev22@gmail.com
