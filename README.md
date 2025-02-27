@@ -16,5 +16,5 @@ I am a full-stack developer who specializes in building applications with React 
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bcsurf2822&theme=dark)](https://git.io/streak-stats)
+
 
