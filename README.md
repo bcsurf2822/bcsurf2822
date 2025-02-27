@@ -8,7 +8,7 @@ I am a full-stack developer who specializes in building applications with React 
 <br />
 - 🔭 **Portfolio** [Here](https://b-corbett-portfolio.vercel.app/)
 - 🌱 **Currently Learning:** AWS & TypeScript
-- ⚡ **Fun fact:** I enjoy surfing, and yoga! 
+- ⚡ **Fun fact:** I enjoy surfing and yoga! 
 - 📫 **Reach me at:** crystaledgedev22@gmail.com
 <br/>
 
