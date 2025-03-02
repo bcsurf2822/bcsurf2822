@@ -1,13 +1,16 @@
 ![Header](https://github.com/bcsurf2822/bcsurf2822/blob/main/assets/gh-banner-image.png)
 ### Hi there 👋, I'm Benjamin Corbett
 
-I am a full-stack developer who specializes in building applications with React using Next.js, Redux, Bootstrap, and Tailwindcss. On the server side I am experienced in using MongoDB, Express.js, and Node.js. In addition to these technologies, I have experience performing unit tests with Jest, integrating WebSockets for real-time communication, authentication, and fetching data through APIs. I'm currently expanding my skill set by learning TypeScript, Amazon Web Services (AWS), and SQL databases.
+Full-Stack Software Developer with a strong foundation in modern JavaScript development. I am passionate
+about problem solving while building responsive applications using React and Next.js, creating efficient state
+management solutions using Redux, and developing scalable, back end environments with Express.js and
+Node.js. My current interests are AI integration, Amazon Web Services, and TypeScript.
 <br/>
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css&perline=5)](https://skillicons.dev)
 <br />
-- 🔭 **Portfolio** [Here](https://b-corbett-portfolio.vercel.app/)
-- 🌱 **Currently Learning:** AWS & TypeScript
+- 💾 **Portfolio** [benjamincorbettnj.dev](https://www.benjamincorbettnj.dev/)
+- 🌱 **Currently Learning:** AI Integration, AWS & TypeScript
 - ⚡ **Fun fact:** I enjoy surfing and yoga! 
 - 📫 **Reach me at:** crystaledgedev22@gmail.com
 <br/>
