@@ -1,6 +1,6 @@
 ![Header](https://github.com/bcsurf2822/bcsurf2822/blob/main/assets/gh-banner-image.png)
-### Hi  👋, I'm Benjamin Corbett
-## Developer Intern at **KLoBot Inc**
+# Hi  👋, I'm Benjamin Corbett
+## Developer-Intern at KLoBot Inc.
 Full-Stack Software Developer with a strong foundation in modern JavaScript development. I am passionate
 about problem solving while building responsive applications using React and Next.js, creating efficient state
 management solutions using Redux, and developing scalable, back end environments with Express.js and
