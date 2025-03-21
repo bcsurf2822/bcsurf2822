@@ -1,16 +1,16 @@
 ![Header](https://github.com/bcsurf2822/bcsurf2822/blob/main/assets/gh-banner-image.png)
-### Hi there 👋, I'm Benjamin Corbett
-
+### Hi  👋, I'm Benjamin Corbett
+## Developer Intern at **KLoBot Inc**
 Full-Stack Software Developer with a strong foundation in modern JavaScript development. I am passionate
 about problem solving while building responsive applications using React and Next.js, creating efficient state
 management solutions using Redux, and developing scalable, back end environments with Express.js and
-Node.js. My current interests are AI integration, Amazon Web Services, and TypeScript.
+Node.js.
 <br/>
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css&perline=5)](https://skillicons.dev)
 <br />
 - 💾 **Portfolio** [benjamincorbettnj.dev](https://www.benjamincorbettnj.dev/)
-- 🌱 **Currently Learning:** AI Integration, AWS & TypeScript
+- 🌱 **Currently Learning:** C# & .Net
 - ⚡ **Fun fact:** I enjoy surfing and yoga! 
 - 📫 **Reach me at:** crystaledgedev22@gmail.com
 <br/>
