@@ -10,7 +10,7 @@ Node.js.
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css&perline=5)](https://skillicons.dev)
 <br />
 - 💾 **Portfolio** [benjamincorbettnj.dev](https://www.benjamincorbettnj.dev/)
-- 🌱 **Currently Learning:** C# & .Net
+- 🌱 **Currently Learning:** Azure and AWS Cloud
 - ⚡ **Fun fact:** I enjoy surfing and yoga! 
 - 📫 **Reach me at:** crystaledgedev22@gmail.com
 <br/>
