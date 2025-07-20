@@ -7,17 +7,12 @@ management solutions using Redux, and developing scalable, back end environments
 Node.js.
 <br/>
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css,cs,dotnet,python,windows,aws&perline=5)](https://skillicons.dev)
 <br />
 - 💾 **Portfolio** [benjamincorbettnj.dev](https://www.benjamincorbettnj.dev/)
 - 🌱 **Currently Learning:** Azure and AWS Cloud
 - ⚡ **Fun fact:** I enjoy surfing and yoga! 
 - 📫 **Reach me at:** crystaledgedev22@gmail.com
 <br/>
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benjamin-corbett-84822424a//)
-
 <br/>
-
-
-
