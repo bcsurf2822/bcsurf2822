@@ -1,4 +1,4 @@
-![Header](./ben-corbett-header.png)
+![Header](./assets/ben-corbett-header.png)
 
 ## Developer at KLoBot Inc.
 
