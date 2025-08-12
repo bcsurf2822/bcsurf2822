@@ -11,8 +11,8 @@ Full-Stack Software Developer specializing in modern web technologies and AI-pow
 - **Frontend**: React, Redux, Next.js, TailwindCSS, Node, Angular
 - **Backend**: C# .NET, Node.js, Express.js, Python
 - **Databases**: MongoDB, SQL, PostgresSQL
-- - **Cloud Platforms**: AWS, Azure, Google
-- - **AI/ML**: Pydantic, Langfuse, Langchain, OpenAI
+- **Cloud Platforms**: AWS, Azure, Google
+- **AI/ML**: Pydantic, Langfuse, Langchain, OpenAI
 
 ### Connect
 - **Portfolio**: [benjamincorbettnj.dev](https://www.benjamincorbettnj.dev/)
