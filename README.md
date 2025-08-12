@@ -8,11 +8,11 @@ Full-Stack Software Developer specializing in modern web technologies and AI-pow
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css,cs,dotnet,python,windows,aws,azure&perline=6)](https://skillicons.dev)
 
 ### Technologies
-- **AI/ML**: RAG, AI Agents, Machine Learning Integration
-- **Cloud Platforms**: AWS, Azure
-- **Frontend**: React, Redux, Next.js, TailwindCSS, React Query
+- **Frontend**: React, Redux, Next.js, TailwindCSS, Node, Angular
 - **Backend**: C# .NET, Node.js, Express.js, Python
-- **Databases**: MongoDB, SQL Server, PostgresSQL
+- **Databases**: MongoDB, SQL, PostgresSQL
+- - **Cloud Platforms**: AWS, Azure, Google
+- - **AI/ML**: Pydantic, Langfuse, Langchain, OpenAI
 
 ### Connect
 - **Portfolio**: [benjamincorbettnj.dev](https://www.benjamincorbettnj.dev/)
