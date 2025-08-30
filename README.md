@@ -2,7 +2,7 @@
 
 ## Developer at KLoBot Inc.
 
-Full-Stack Software Developer specializing in modern web technologies and AI-powered solutions. I build secure and responsive applications with React and Next.js, develop scalable backend systems with Node.js, Express, Python, and .NET, as well as enjoy building agents and RAG solutions into my application. I am currently expanding my expertise in cloud platforms.
+Full-Stack Software Developer specializing in modern web technologies and AI-powered solutions. I build secure and responsive applications with React and Next.js, develop scalable backend systems with Node.js, Express, Python, and .NET, as well as enjoy building agents and RAG solutions into my application. I am currently expanding my expertise in cloud platforms as I attend classes at Amazon Cloud Institute.
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,css,cs,dotnet,python,windows,aws,azure&perline=6)](https://skillicons.dev)
