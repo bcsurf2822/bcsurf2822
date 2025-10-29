@@ -30,6 +30,8 @@ LangChain | Pydantic AI | OpenAI API | Langfuse | RAG Systems | Vector Databases
 
 ### Connect
 [**LinkedIn**](https://www.linkedin.com/in/corbett-benjamin/)
-[**Portfolio:**](https://www.benjamincorbettnj.dev/)  
+
+[**Portfolio**](https://www.benjamincorbettnj.dev/)
+
 **Email:** ben.corbett@benjamincorbettnj.dev  
 
