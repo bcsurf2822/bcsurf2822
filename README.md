@@ -1,14 +1,12 @@
 ![Header](./assets/ben-corbett-header.png)
 
-## Full Stack Developer | Generative AI | Cloud Solutions
+## Full-Stack Developer | Generative AI | Cloud Solutions
 
-Full-Stack Software Developer specializing in modern web technologies and AI-powered solutions. I build secure and responsive applications with React and Next.js, develop scalable backend systems with Node.js, Express, Python, and .NET, and integrate AI agents and RAG solutions into production applications.
+I am a Full-Stack Software Developer who enjoys building with modern web technologies, cloud platforms, and generative AI. I create responsive modular frontend architecutres, design scalable backend systems on cloud infrastructure, and integrate a range of generative AI solutions.
 
 ### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,express,mongodb,tailwind,bootstrap,js,ts,css,html,cs,dotnet,python,git,github,docker,windows,linux,aws,azure,gcp,vscode&perline=8)](https://skillicons.dev)
-
-### Core Technologies
 
 **Frontend**  
 React | Redux | Next.js | TypeScript | JavaScript | TailwindCSS | Bootstrap | Angular
