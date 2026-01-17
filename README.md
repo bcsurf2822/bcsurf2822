@@ -15,7 +15,7 @@ I am a Full-Stack Software Developer who enjoys building with modern web technol
 | **Databases** | MongoDB, PostgreSQL, SQL, CosmosDB, NoSQL, DynamoDB |
 | **Cloud** | AWS, Azure, Google Cloud Platform |
 | **AI & Machine Learning** | LangChain, Pydantic AI, OpenAI, Gemini, Anthropic, Langfuse|
-| **Dev** | Docker, Git |
+| **DevOps** | Docker, Git |
 
 
 ### Connect
