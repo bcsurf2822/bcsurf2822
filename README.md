@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | Generative AI | Cloud Solutions
 
-I am a Full-Stack Software Developer who enjoys building with modern web technologies, cloud platforms, and generative AI. I create responsive modular frontend architectures, design scalable backend systems on cloud infrastructure, and integrate a range of generative AI solutions.
+I am a Full-Stack Software Developer who enjoys building with modern web technologies, cloud platforms, and generative AI. I create responsive frontend architectures, design scalable backend systems on cloud infrastructure, and integrate a range of generative AI solutions.
 
 ### Tech Stack
 
