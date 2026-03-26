@@ -1,4 +1,4 @@
-# Ben Corbett
+# Benjamin Corbett
 
 ## Full-Stack Developer | Generative AI | Cloud Solutions
 
