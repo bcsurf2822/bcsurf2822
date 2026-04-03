@@ -2,7 +2,12 @@
 
 ## Full-Stack Developer | Generative AI | Cloud Solutions
 
-I am a Full-Stack Software Developer who enjoys building with modern web technologies, cloud platforms, and generative AI. I create responsive frontend architectures, design scalable backend systems on cloud infrastructure, and integrate a range of generative AI solutions.
+AI-focused full-stack software developer specializing in applied Generative AI, agentic development systems, and AI-augmented
+engineering workflows. Experienced in AI-assisted coding tools (Claude Code, GitHub Copilot, Cursor), retrieval augmented
+generation (RAG) pipelines, and cloud architectures on AWS and Azure. Proven track record embedding AI capabilities into
+enterprise platforms to deliver measurable operational improvements. Skilled in designing agentic AI systems, building scalable AI
+pipelines with vector databases and evaluation frameworks, and establishing AI tooling standards that accelerate engineering
+productivity.
 
 ### Tech Stack
 
