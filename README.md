@@ -15,11 +15,11 @@ productivity.
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React, Redux, Next.js, TypeScript, JavaScript, TailwindCSS, Angular |
-| **Backend** | Node.js, Express.js, C#, .NET, Python |
-| **Databases** | MongoDB, PostgreSQL, SQL, CosmosDB, NoSQL, DynamoDB |
-| **Cloud** | AWS, Azure, Google Cloud Platform |
-| **AI & Machine Learning** | LangChain, Pydantic AI, OpenAI, Gemini, Anthropic, Langfuse|
+| **Languages** | Python, TypeScript, JavaScript, C#, SQL |
+| **Frameworks** | React, Next.js, Angular, Node.js, Express.js, .NET |
+| **AI/ML** | LangChain, Pydantic AI, OpenAI API, Anthropic API, Gemini, Langfuse, RAG |
+| **Cloud** | Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) |
+| **Databases** | MongoDB, Azure Cosmos DB, Amazon DynamoDB, PostgreSQL, SQL |
 | **DevOps** | Docker, Git |
 
 
